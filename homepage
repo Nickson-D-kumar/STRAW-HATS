@@ -40,7 +40,7 @@
         position: relative;
       }
       nav a:hover {
-        background-color: #0c5b97;
+        background-color: #0c5b97; 
       }
       .submenu {
         display: none;
