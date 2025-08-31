@@ -12,7 +12,7 @@
         padding: 0;
         background-image: url("https://i.pinimg.com/736x/2e/3d/68/2e3d6845011de0d24c13dd1e1028a2ff.jpg");
         background-size: cover;
-        font-family: "Trebuchet MS", sans-serif;
+        font-family: "Trebuchet MS", sans-serif; 
       }
       .login-container {
         width: 300px;
