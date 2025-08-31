@@ -7,7 +7,7 @@
     <title>RDNS Tours</title>
     <link rel="icon" href=" " />
     <!--ithula icon add pannirula rahesh-->
-    <script>
+    <script> 
       function saveCredentials(event) {
         event.preventDefault();
         const username = document.getElementById("username").value;
